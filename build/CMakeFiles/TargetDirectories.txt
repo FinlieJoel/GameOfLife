@@ -1,0 +1,3 @@
+C:/Projects/GameOfLife/build/CMakeFiles/BasicClassAndObject.dir
+C:/Projects/GameOfLife/build/CMakeFiles/edit_cache.dir
+C:/Projects/GameOfLife/build/CMakeFiles/rebuild_cache.dir
